@@ -2,5 +2,4 @@
 
 ## Alt bilgi
 
-asdfsafdsaf
-asfsasa
+Deneme1,Deneme2
